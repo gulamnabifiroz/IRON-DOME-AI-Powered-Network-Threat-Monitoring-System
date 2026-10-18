@@ -122,7 +122,7 @@ Ensure Suricata is monitoring the correct network interface and that IRON DOME c
 From the activated virtual environment and project directory, run:
 
 ```cmd
-python IRON_DOME_GEMINI_ONLY_AUTO_IP_REGION_FIXED.py
+python IRON_DOME.py.
 ```
 
 If your Python file has a different name, replace the filename in the command.
