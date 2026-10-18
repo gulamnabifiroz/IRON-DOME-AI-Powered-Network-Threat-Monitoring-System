@@ -20,7 +20,7 @@ Gemini API key: https://aistudio.google.com/apikey
 Open Windows CMD and run:
 
 ```cmd
-git clone https://github.com/YOUR_USERNAME/IRON-DOME.git
+git clone https://github.com/gulamnabifiroz/IRON-DOME.git
 cd IRON-DOME
 ```
 
