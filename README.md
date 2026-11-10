@@ -1,5 +1,6 @@
 # IRON DOME
 ### AI-Assisted Network Threat Monitoring and Incident Analysis
+<img width="2683" height="2134" alt="image" src="https://github.com/user-attachments/assets/8d22268a-226c-477b-a687-f279eb98ec05" />
 
 **IRON DOME** is a Python-based cybersecurity monitoring platform that integrates Suricata Intrusion Detection System (IDS) telemetry with Google Gemini Flash Lite for contextual security-event analysis. The project combines network threat monitoring, structured security-event processing, incident reporting, persistent incident history, and analyst feedback within a graphical application designed for cybersecurity laboratories and Raspberry Pi deployments.
 
